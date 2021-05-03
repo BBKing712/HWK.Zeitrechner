@@ -1,0 +1,13 @@
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.exe
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.deps.json
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.runtimeconfig.json
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.runtimeconfig.dev.json
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.dll
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\bin\Debug\netcoreapp3.1\HWK.Zeitrechner.pdb
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.csprojAssemblyReference.cache
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.AssemblyInfoInputs.cache
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.AssemblyInfo.cs
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.csproj.CoreCompileInputs.cache
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.dll
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.pdb
+C:\Temp16\HWK.Zeitrechner\HWK.Zeitrechner\obj\Debug\netcoreapp3.1\HWK.Zeitrechner.genruntimeconfig.cache
